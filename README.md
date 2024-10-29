@@ -54,5 +54,5 @@ Atliq  has recorded a revenue of 1.7bn in 3 months from all hotels. The luxury c
 - Weekday weekend ADR are constant
 
 **Final Conclusion:**
-ADR being constant is an indication of fixed pricing and other pricing methods could be employed to maximize revenue on occupancy
-Rating review should be analyzed to determine what the customers are saying about the hotels with lower rating.
+- ADR being constant is an indication of fixed pricing and other pricing methods could be employed to maximize revenue on occupancy
+- Rating review should be analyzed to determine what the customers are saying about the hotels with lower rating.
